@@ -1,2 +1,2 @@
-![preview](https://raw.githubusercontent.com/yangjinheng/jsontostruct/main/preview.png)
+![preview](https://raw.githubusercontent.com/yangjinheng/json-to-struct/main/preview.png)
 
